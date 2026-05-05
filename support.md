@@ -10,7 +10,7 @@ Need help with Rushfall One?
 
 Contact support:
 
-TODO support@example.com
+iamroot94@gmail.com
 
 ## Purchase Issues
 
