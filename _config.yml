@@ -1,0 +1,9 @@
+title: Rushfall One
+description: Legal documents for Rushfall One
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - impressum.md
+  - privacy.md
+  - terms.md
