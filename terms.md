@@ -10,9 +10,10 @@ Diese Bedingungen gelten fuer optionale In-App-Kaeufe in Rushfall One.
 
 ## Anbieter
 
-TODO Vollstaendiger Name / Firma  
-TODO Anschrift  
-E-Mail: TODO support@example.com
+Lucas Galter
+Gebbertstraße 118
+91058 Erlangen
+E-Mail: iamroot94@gmail.com
 
 ## In-App-Kaeufe
 
@@ -56,7 +57,7 @@ Erstattungen werden ueber Apple abgewickelt. Bei einer Rueckerstattung kann Rush
 
 Wenn ein Kauf erfolgreich war, Silver aber nicht gutgeschrieben wurde, kontaktiere bitte den Support:
 
-TODO support@example.com
+iamroot94@gmail.com
 
 Bitte fuege nach Moeglichkeit Kaufzeitpunkt, Produkt, Apple-Kaufbeleg oder Account-E-Mail bei.
 
