@@ -10,11 +10,11 @@ Diese Datenschutzerklaerung beschreibt, wie Rushfall One personenbezogene Daten 
 
 ## Verantwortlicher
 
-TODO Vollstaendiger Name / Firma  
-TODO Strasse und Hausnummer  
-TODO PLZ Ort  
-TODO Land  
-E-Mail: TODO privacy@example.com
+Lucas Galter
+Gebbertstraße 118
+91058 Erlangen
+Deutschland
+E-Mail: lucas4.galter@gmail.com
 
 ## Welche Daten verarbeitet werden
 
@@ -89,7 +89,7 @@ Rushfall One verwendet nach aktuellem Stand keine Werbung und kein App-Tracking 
 
 Nutzer koennen nach Massgabe der DSGVO Auskunft, Berichtigung, Loeschung, Einschraenkung der Verarbeitung, Datenuebertragbarkeit und Widerspruch verlangen.
 
-Kontakt: TODO privacy@example.com
+Kontakt: iamroot94@gmail.com
 
 ## Beschwerderecht
 
