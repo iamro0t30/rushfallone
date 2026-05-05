@@ -10,33 +10,29 @@ Angaben gemaess § 5 DDG.
 
 ## Anbieter
 
-TODO Vollstaendiger Name / Firma  
-TODO Strasse und Hausnummer  
-TODO PLZ Ort  
-TODO Land
+Lucas Galter
+Gebbertstraße 118
+91058 Erlangen
+Deutschland
 
 ## Kontakt
 
-E-Mail: TODO support@example.com
-
-## Vertreten durch
-
-TODO Name der vertretungsberechtigten Person, falls erforderlich
+iamroot94@gmail.com
 
 ## Registereintrag
 
-TODO Registergericht und Registernummer, falls vorhanden  
-Falls nicht vorhanden: Nicht eingetragen.
+Nicht eingetragen.
 
 ## Umsatzsteuer
 
-TODO Umsatzsteuer-Identifikationsnummer, falls vorhanden  
-Falls nicht vorhanden: Keine Umsatzsteuer-Identifikationsnummer.
+Keine Umsatzsteuer-Identifikationsnummer.
 
 ## Verantwortlich fuer den Inhalt
 
-TODO Vollstaendiger Name / Firma  
-TODO Anschrift wie oben
+Lucas Galter
+Gebbertstraße 118
+91058 Erlangen
+Deutschland
 
 ## Hinweis
 
